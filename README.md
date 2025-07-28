@@ -21,4 +21,4 @@ Este proyecto analiza el rendimiento comercial de cuatro tiendas para ayudar al 
 - `AluraStoreLatam.ipynb`: Notebook con todo el análisis y visualizaciones
 - `README.md`: Este archivo de descripción del proyecto
 
-Este repositorio se irá actualizando conforme avance el análisis.
+Este notebook fue actualizado el 28 de julio de 2025 para corregir visualizaciones y agregar insights clave”
